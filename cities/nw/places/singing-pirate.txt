@@ -1,0 +1,12 @@
+The Singing Pirate: A neglected dragonborn inn, kept by a bronze dragon named Ningusu.
+
+
+Luaga: Female Elf Artist, Neutral. Luaga is exceptionally beautiful, with thin golden hair and amber eyes. She wears tailored clothing and carries a fine stiletto. Luaga has an animal companion, a gray rat named Finasaer.
+Eryn: Female Human Alchemist, Neutral. Eryn has gray hair and green eyes, and a sharp nose. She wears fine clothing and a sling of vials and potions. Eryn is lewd and gullible.
+Vyncis: Male Human Ranger, Good. Vyncis is youthful in appearance, with blonde hair and brown eyes. He wears leather armor and wields a bastard sword. Vyncis seeks to discover the truth of his lineage.
+Unbjolf: Male Dwarf Alchemist, Good. Unbjolf has silver hair and green eyes. He wears expensive clothing and a silver amulet. Unbjolf has an animal companion, a hawk named Kilmal.
+Ames: Male Human Butcher, Evil. Ames is thin, with short golden hair and brown eyes. He wears travel-stained clothing and several small tools hang from his belt. Ames is known for his chimera sausages, made from various exotic meats.
+Frida: Female Human Guard, Neutral. Frida has a narrow face, with messy blonde hair and narrow hazel eyes. She wears studded leather and wields a short sword and long bow. Frida is known for her jeweled sword, a gift from the Lord Mayor.
+Elyn: Female Human Entertainer, Evil. Elyn has a long face, with curly copper hair and soft amber eyes. She wears fine clothing and a dragonscale cloak. Elyn is also known as the best knife-thrower in town.
+Alaff Leighey: Male Human Thief, Neutral. Alaff is slender, with auburn hair and dark gray eyes. He wears leather armor and wields a short sword and dagger. Alaff has a black snake named Burhe.
+Gedu: Male Dwarf Wizard, Neutral. Gedu has a narrow face, with golden hair and bright amber eyes. He wears modest garments and wields a quarterstaff and dagger.

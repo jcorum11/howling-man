@@ -1,0 +1,15 @@
+- read exceprt
+- rock is a Giant Hermit Crab 
+- slippery - dash or fight == 10 dex save or fall prone
+    - check must be made before attack
+- giant crayfish (pg 235 col 1)
+    - tries to speak aggressively first, will not follow if party flees, if attacks wakes Kalka
+    - guards the rock, speaks Olman
+- Giant Hermit Crab === Kalka-Kylla (pg 238 col 1) - dc 15 nature to know that staff is a leg 
+    - Speaks Olman
+    - is asleep - only awakes if Crayfish is attacked
+    - can be reasoned with
+        - denies knowledge of the place, was brought here very young
+    - if asked for directions
+        - 1st time: sends them to northern staircase
+        - 2nd time: sends them west

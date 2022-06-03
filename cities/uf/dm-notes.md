@@ -1,0 +1,10 @@
+# Ubbin Falls
+A logging town that was once the main source of lumber for Neverwinter. It has recently declined due to the shorter travel time of Oakhurst. Ubbin Falls prides itself in being much larger, more beautiful and wealthier than Oakhurst. The lumber comes from elvish magic that encourages trees to grow extra wood that is given to people to sell. It is this relationship that has beautified the city with beautiful buildings of natural wood and stone. The center of the city is a beautiful waterfall. to the right of the falls is the castle set into the cliff that the falls tumbles over. Though the city is splendid at its center, the fringes of the city are beginning to decay with blight. Despite its grandeur, it cannot survive without its main source of income which is logging. This issue has been overshadowed by the infestation of devils in the ruling family. 
+
+the devil's name is Buvalu
+
+2-6-2020
+while the players were at the city, Bilgia tried to help them at which she was successful. She accomplished this with the help of the cloak that she has. Prior to the players arrival at UF the devil became suspicious since there were times where she would dissappear suddenly. He began to ask the family where she was during these times and her sister divulged that she had a cloak and that she had probably gone off with it. He pressed her as to where Bilgia would have gotten such a cloak and she told him that she got it from the theives guild and that she uses it often. He began tracking her and the night that the players came he discovered her theives cant to Sinesa. He sent the Succubus to where the players were staying and during that time lost her. He assumed the players got caught by the succubus but when he discovered that was not the case he tortured and raped Bilgia. She is pregnant with his child
+
+## Bana Family
+Bilgia Bana: Human Rogue. knows theives cant, travels by night with an invisibility cloak. 

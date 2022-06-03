@@ -1,0 +1,9 @@
+The House of Dreams: A grand theatre of stone walls, home of a male human named Geoffrey and his troupe of trained toads.
+
+Ukral: Male Dwarf Wizard, Good. Ukral is courtly in bearing, with white hair and blue eyes. He wears modest garments and wields a dagger and sling.
+Kilmal: Female Dwarf Ranger, Good. Kilmal is short and willowy, with tangled blonde hair and gray eyes. She wears leather armor and wields a warhammer. Kilmal has a golden eagle named Kilo.
+Elres: Male Human Soldier, Neutral. Elres is common in appearance, with curly copper hair and sharp amber eyes. He wears chain mail and wields a military pick. Elres is jealous and driven.
+Gauwill Parre: Male Human Priest, Neutral. Gauwill has a square face, with braided copper hair and soft green eyes. He wears tailored clothing and several pouches hang from his belt. Gauwill is curious and corrupt.
+Algmulf: Male Human Wizard, Neutral. Algmulf is tall, with thin auburn hair and light amber eyes. He wears emerald robes and wields a quarterstaff. Algmulf seeks to save his family from financial ruin.
+Stomund Wyary: Male Human Priest, Neutral. Stomund has a square face, with gray hair and sharp gray eyes. He wears well-made clothing and a silver holy symbol. Stomund is truthful and vulgar.
+Gifu: Female Human Entertainer, Evil. Gifu is short and slender, with matted copper hair and bright brown eyes. She wears tailored clothing and a silver holy symbol. Gifu is fanatical and disloyal.

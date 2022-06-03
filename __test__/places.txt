@@ -1,0 +1,58 @@
+
+The Serpent's Meadhall: A heroic dwarven tavern, built within the walls of an ancient iron keep.
+Ethyn's Pottery: A large potter's workshop, built within what was once a titan's tankard.
+
+Gyleon's Masonry: The workshop of a male human stonemason named Gyleon, known for his vast knowledge of dwarven runes and glyphs.
+The Spellbinders Guild Hall: A two-storey tower of conjured stone, guarded by an iron golem.
+The Barracks: A stout building of half-timbered walls, a station of of the town guard. A bronze statue of a god of honor stands in front of the building.
+
+The Silver Shrine: A wondrous obelisk of bright silver, said to protect the town against wererats and other lycanthropes.
+A menhir of rough-hewn stone, placed to honor Lord Willan.
+The Shrine of Sadya: A bronze statue of Sadya, God of Protection, said to reveal visions to those who leave an offering.
+The ruins of Noke Keep.
+Greenhome: A two-storey building of timber and brick walls which has been completely overgrown by flowering vines scale-like leaves thorny vines writhing vines. It is the home of Sidur, a young green dragon and priest.
+
+Jamyng's Pewter: A neglected pewtersmith's workshop, built within what was once the feast hall of a long-ruined castle.
+An overgrown temple ruins, said to be haunted by floating motes of candle-light.
+Arkell's Pottery: The workshop of a female human potter named Hone Arkell, who is rumored to lead a cult of an undead goddess.
+The Guildhall: A grand building of half-timbered walls, once an inn house. It contains a large meeting hall and several smaller rooms, and is shared amongst several local merchant guilds.
+The Broken Arrow: A modest adventurer's tavern, decorated with dungeon doors.
+An ancient temple ruins, said to lie atop catacombs filled with long-forgotten treasures.
+The Shrine of Atil: A stone niche enshrining the holy symbol of Atil, Lord of the Earth, surrounded by a ring of broken columns.
+Staby's Pottery: The workshop of a female human potter named Alin Staby, who is rumored to be quarrying clay from the necropolis.
+The Sorcerous Harper: A shabby elven tavern, kept by a retired adventurer named Lafa.
+The Pinners Guild Hall: An impressive building of timber and brick walls, decorated with a glazed-tile roof.
+The Cursed Sword: A fanciful elven tavern, decorated with monstrous skulls.
+Ebed's Pewter: The workshop of a male human pewtersmith named Ebed, who is rumored to mint special leaden coins for the Assassin's Guild.
+The ruins of a seven-sided tower, which appears restored upon the night of the equinox.
+The Old Wall: A section of an old town wall divides several blocks. The ghosts of a town guard can sometimes be seen walking upon it.
+The Guildhall: An ornate timber and brick building, once an inn house. It contains a large meeting hall and several smaller rooms, and is shared amongst several local trade guilds.
+The Shrine of Niyaha: A stone arch engraved with the holy symbol of Niyaha, Lady of Plants, said to bestow favor to those who leave an offering.
+An arch of crystal, placed to mark the Battle of the Opalwood Forest.
+The ruins of a five-sided tower, which appears restored upon the night of the full moon.
+Vyncent's Foundry: A single storey building of timber and brick walls, the workshop of a male human founder named Vyncent. He has been cursed by a demon, and every bell he casts makes all those who hear it more susceptible to fits of rage and madness.
+The Guildhall: An ornate timber and brick building, decorated with stained glass windows. It contains a large meeting hall and several smaller rooms, and is shared amongst several local trade guilds.
+The Shrine of Maelaph: A stone statue of Maelaph, Goddess of Law, said to bestow favor to those who leave an offering.
+The Shrine of Eohil: A bronze statue of Eohil, God of War, surrounded by a ring of broken columns.
+The Asylum: A single storey stone-walled building, filled with the madmen and lunatics of the town.
+The Broken Wand: A modest dwarven inn, known for the illusions which entertain its patrons.
+Jamath's Arsenal: The workshop of a male human weaponsmith named Jamath, who is rumored to craft special daggers for the Thieves' Guild.
+A broken abbey ruins, said to be haunted by the last priest of a long-forgotten god of evil.
+The Crowned Pilgrim: A neglected elven tavern, said to be a front for the Assassin's Guild.
+The Coliseum: A large oval amphitheatre, known for its gladiatorial combats.
+Thelry's Pewter: A neglected pewtersmith's workshop, decorated with sinister pewter faeries.
+The Dragon Pottery: The workshop of a male human potter named Tephye, built within a large dragon kiln. Tephye spends several months filling the shop with thrown pots, then bricks in the door and spends several days firing it. The opening of the fired kiln is a local festival.
+The Old Knave: An elegant commoner's inn, said to be haunted by the ghost of a silver dragon.
+The Guildhall: A large building of stone walls, decorated with stained glass windows. It contains a large meeting hall and several smaller rooms, and is shared amongst several local trade guilds.
+Aeburg's Masonry: The workshop of a female human stonemason named Aeburg, known for her secret and concealed doors.
+A broken spire of hewn crystal, placed to honor a local god of wealth.
+The Shrine of Induing: A stone monolith engraved with the holy symbol of Induing, Goddess of Wizards, surrounded by a neglected garden.
+Forde's Armory: The workshop of a female human armorer named Atril Forde, known for her exotic and monstrous hide armors.
+The Shrine of Kielyr: A bronze statue of Kielyr, Lord of Trickery, surrounded by an arched peristyle.
+The Elysian Odeum: A grand stone-walled theatre, home of a female human named Helhe and her troupe of trained snakes.
+A column of rough-hewn stone, said to entomb the bones of a local goddess of healing.
+The Spectral Aqueduct: A section of an old aqueduct stands over the street. A curtain of water falls continuously from the lower end of the aqueduct into a large stone basin. The water is clear and cold, but vanishes from any vessel used to contain it.
+The Odeum of Ognilos: A large half-timbered theatre, known for its dark dwarven tragedies.
+The Scoundrel and Scroll: A shabby commoner's tavern, built within an ancient tower of rune-carved stone.
+Sabel's Clocks: A modest clockmaker's workshop, built around a shrine of Findanye, Lady of Time.
+The Beggar's Hall: A neglected adventurer's tavern, decorated with stone gargoyles.

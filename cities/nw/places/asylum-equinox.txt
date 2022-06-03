@@ -1,0 +1,17 @@
+The Asylum: A two-storey building of half-timbered walls, filled with the madmen and lunatics of the town.
+An ancient abbey ruins, which appears restored upon the night of the equinox.
+
+NPCs
+Here: Male Human Wizard, Neutral. Here has an angular face, with messy brown hair and sharp brown eyes. He wears plain clothing and wields a quarterstaff and dagger.
+Greder Wyne: Male Human Aristocrat, Neutral. Greder has golden hair and gray eyes, and an unusual mark on his face. He wears fine raiment and jewelry. Greder is truthful and thoughtful.
+Exam: Male Human Ranger, Evil. Exam has a long face, with tangled gray hair and brown eyes. He wears leather armor and wields a warhammer and short bow.
+Cuthbeohrt: Male Human Necromancer, Evil. Cuthbeohrt is slender, with brown hair and blue eyes. He wears dark robes and wields a club and darts.
+Ornmulf: Male Human Ranger, Evil. Ornmulf has gray hair and green eyes. He wears leather armor and wields a warhammer.
+Exan: Male Human Paladin, Good. Exan has silver hair and green eyes. He wears plate mail and wields a mace and shield. Exan is compassionate and covetous.
+Brilda: Female Human Fighter, Neutral. Brilda has braided golden hair and narrow amber eyes. She wears chain mail and wields a spear and shield.
+Stephye: Male Human Priest, Evil. Stephye has a square face, with short auburn hair and gray eyes. He wears fine clothing and a feathered hat. Stephye has an animal companion, a hawk named Gilsi.
+Lodga: Female Dwarf Artist, Good. Lodga has a long face, with brown hair and brown eyes. She wears fine clothing and a feathered hat. Lodga seeks to continue the noble legacy of her father.
+Ugmar: Female Dwarf Ranger, Good. Ugmar has gray hair and large hazel eyes. She wears leather armor and wields a short sword and heavy crossbow.
+Kather: Female Human Entertainer, Evil. Kather is short and willowy, with golden hair and soft amber eyes. She wears modest garments and a silver amulet. Kather seeks to save her family from financial ruin.
+Hilda: Female Human Professional, Neutral. Hilda has cropped black hair and sharp blue eyes, and a distinctive mark on her leg. She wears modest garments and a silver amulet. Hilda has an animal companion, a hunting dog named Gilew.
+Maine: Male Elf Wizard, Good. Maine is tall, with braided red hair and brown eyes. He wears gray robes and wields a dagger. Maine is well-spoken and alluring.
