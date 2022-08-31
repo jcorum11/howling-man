@@ -1,0 +1,1 @@
+The "ooks" Store: A dingy store front window displays "ooks" peeling gold lettering. Inside the dimly lit shop are shelves upon shelves of musty old volumes fill up the space until only narrow paths await the adventurous customer. After searching the store you might find what you want...or need in the future. 

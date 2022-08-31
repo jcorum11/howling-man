@@ -1,0 +1,1 @@
+Arcadia Glass: A small shop with shelves filled with tiny and exquisitely beautiful glass statues. Run by a half elf, behind his desk he has a small collection of graphic statues that appear to depict past and future events. 

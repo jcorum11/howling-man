@@ -1,0 +1,5 @@
+- read description pg 66 col 1
+- pressure plate
+    - springs when 3 humanoids step on it
+        - logs swing out to hit party 2d6 bludgeoning
+        - pushed 5ft down toward double doors

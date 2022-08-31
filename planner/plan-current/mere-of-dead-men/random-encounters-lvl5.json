@@ -1,0 +1,95 @@
+{
+  "random encounters lvl 5": {
+    "horde": {
+      "easy": {
+        "zombie": 3,
+        "giant toad": 3
+      },
+      "medium": {
+        "giant poisonous snake": 12,
+      },
+      "hard": {
+        "zombie": 10,
+        "gibbering mouther": 2
+      },
+      "deadly": {
+        "yuan-ti pureblood": 3,
+        "Hadrosaurus": 10
+      }
+    },
+    "boss": {
+      "easy": {
+        "ghost": 1
+      },
+      "medium": {
+        "bodak": 1
+      },
+      "hard": {
+        "giant skeleton": 1
+      }, 
+      "deadly": {
+        "rot troll": 1
+      }
+    }, 
+    "boss and minions": {
+      "easy": { 
+        "half-ogre": 1, 
+        "cockatrice": 1,
+        "shrieker": 5
+      },
+      "medium": {
+        "water weird": 1,
+        "zombie": 5
+      },
+      "hard": {
+        "lizard king/queen": 1, 
+        "vargoulle": 1, 
+        "giant rat": 6
+      }, 
+      "deadly": {
+        "ettin": 1,
+        "ambush drake": 7
+      }
+    },
+    "duo": {
+      "easy": {
+        "darkling elder": 1,
+        "orc eye of gruumsh": 1
+      },
+      "medium": {
+        "ogre chain brute": 1,
+        "redcap": 1
+      },
+      "hard": {
+        "ogre battering ram": 1, 
+        "ettin": 1
+      },
+      "deadly": { 
+        "wraith": 1, 
+        "ghost": 1 
+      }
+    }, 
+    "trio": {
+      "easy": {
+        "faerie dragon": 1, 
+        "vargouille": 1, 
+        "thorny": 1, 
+      },
+      "medium": {
+        "fathomer": 1, 
+        "lizardfolk shaman": 1, 
+        "orog": 1, 
+      },
+      "hard": {
+        "water weird": 1, 
+        "gnoll pack lord": 1, 
+        "ettercap": 1, 
+      },
+      "deadly": {
+        "banshee": 1, 
+        "water weird": 1, 
+        "orc eye of gruumsh": 1, 
+      }
+    }
+  ]
+}

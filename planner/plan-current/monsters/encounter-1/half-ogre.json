@@ -1,0 +1,68 @@
+{
+  "index": "half-ogre",
+  "name": "Half Ogre",
+  "size": "Large",
+  "type": "giant",
+  "alignment": "any",
+  "armor_class": 12,
+  "hit_points": 30,
+  "hit_dice": "4d10 + 8",
+  "speed": {
+    "walk": "30 ft."
+  },
+  "strength": 17,
+  "dexterity": 10,
+  "constitution": 14,
+  "intelligence": 7,
+  "wisdom": 9,
+  "charisma": 10,
+  "proficiencies": [],
+  "damage_vulnerabilities": [],
+  "damage_resistances": [],
+  "damage_immunities": [],
+  "condition_immunities": [],
+  "senses": {
+    "darkvision": "60 ft.",
+    "passive_perception": 9
+  },
+  "languages": "Common, Giant",
+  "challenge_rating": 1,
+  "xp": 450,
+  "actions": [
+    {
+      "name": "Battleaxe",
+      "desc": "+5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage. or 14 (2d10+3) slashing damage if used with two hands.",
+      "attack_bonus": 5,
+      "damage": [
+        {
+          "damage_type": {
+            "index": "slashing",
+            "name": "Slashing",
+            "url": "/api/damage-types/slashing"
+          },
+          "damage_dice": "2d8+3"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Javelin",
+      "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage.",
+      "attack_bonus": 6,
+      "damage": [
+        {
+          "damage_type": {
+            "index": "piercing",
+            "name": "Piercing",
+            "url": "/api/damage-types/piercing"
+          },
+          "damage_dice": "2d6+3"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "url": "/api/monsters/half-ogre",
+  "legendary_actions": [],
+  "special_abilities": []
+}
